@@ -12,5 +12,5 @@ This is the Final Assignment of Workearly combining SQL, Python and Tableau.
 
 ### Difficulties
 
-In general the assignment it is easy. However, I didn't manage to calculate the percentage of sales of the most popular item divide by the sales of each store. 
+In general the assignment it is easy and I followed the steps provided as guidance. However, I didn't manage to calculate the percentage of sales of the most popular item divide by the sales of each store. 
   
